@@ -7,17 +7,6 @@ O projeto contém dois jogos distintos:
 1. **Vida Universitária** – Simula situações do cotidiano de um estudante, utilizando menus e escolhas interativas.
 2. **CriptoRush** – Um jogo de reflexos rápidos onde o jogador coleta moedas representando criptomoedas, com progressão de fases.
 
-## Estrutura do Projeto
-projeto-jogos/
-├── assets/ # Imagens e sprites utilizados nos jogos
-├── src/ # Código-fonte principal
-│ ├── main.cpp # Ponto de entrada da aplicação
-│ ├── game_screen.h # Header para controle de telas
-│ ├── game_vida_universitaria/
-│ │ └── vida_universitaria.cpp
-│ └── game_criptomoedas/
-│ └── cripto.cpp
-└── README.md # Este arquivo
 
 
 ## Como Executar
